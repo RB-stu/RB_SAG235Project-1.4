@@ -1907,3 +1907,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.02-15.49.44:543][339]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.02-15.51.35:096][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3979.199463
+[2026.02.02-15.51.36:095][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-15.51.36:095][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3979.865967, Update Interval: 303.436981
+[2026.02.02-15.52.16:278][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
