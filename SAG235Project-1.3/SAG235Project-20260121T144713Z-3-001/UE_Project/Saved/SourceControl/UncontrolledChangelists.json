@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User1/Downloads/SAG235Project-1.2/SAG235Project-20260121T144713Z-3-001/UE_Project/Content/WidgetBlueprints/Gamemodes/GM_StartMenu.uasset",
+				"C:/Users/User1/Downloads/SAG235Project-1.2/SAG235Project-20260121T144713Z-3-001/UE_Project/Content/WidgetBlueprints/WB_StartMenu.uasset",
+				"C:/Users/User1/Downloads/SAG235Project-1.2/SAG235Project-20260121T144713Z-3-001/UE_Project/Content/WidgetBlueprints/Triggerables/BP_Triggerable.uasset"
+			]
+		}
+	]
+}
